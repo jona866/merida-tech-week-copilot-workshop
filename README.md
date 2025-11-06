@@ -1,0 +1,1 @@
+# merida-tech-week-copilot-workshop
