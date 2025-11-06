@@ -3,7 +3,7 @@
 ## 🎥 GitHub Copilot en acción
 
 <div align="center">
-  <video src="https://github.com/jona866/merida-tech-week-copilot-workshop/assets/videos/hero-animation-lg.mp4" width="100%"></video>
+  <video src="assets\videos\hero-animation-lg.gif" width="100%"></video>
   <p><em>Video de demostración de GitHub Copilot</em></p>
 </div>
 
