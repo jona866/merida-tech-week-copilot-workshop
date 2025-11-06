@@ -3,8 +3,8 @@
 ## 🎥 GitHub Copilot en acción
 
 <div align="center">
-  <video src="assets\videos\hero-animation-lg.gif" width="100%"></video>
-  <p><em>Video de demostración de GitHub Copilot</em></p>
+  <img src="assets/videos/hero-animation-lg.gif" alt="GitHub Copilot Demo" width="100%">
+  <p><em>Demostración de GitHub Copilot en acción</em></p>
 </div>
 
 ---
