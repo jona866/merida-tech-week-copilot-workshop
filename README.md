@@ -1,7 +1,5 @@
 # 🤖 Taller: Desarrollo asistido por IA con GitHub Copilot
 
-## 🎥 GitHub Copilot en acción
-
 <div align="center">
   <img src="assets/videos/hero-animation-lg.gif" alt="GitHub Copilot Demo" width="100%">
   <p><em>Demostración de GitHub Copilot en acción</em></p>
@@ -66,13 +64,42 @@ Si eres estudiante, puedes obtener **Copilot Pro gratis**:
 
 ## 📚 Contenido del repositorio
 
-- **`materials/`** - Presentaciones y slides del instructor
-- **`examples/`** - Código de ejemplo para el taller
-- **`solutions/`** - Soluciones completas de ejercicios
-- **`resources/`** - Documentación y enlaces útiles
+### 📖 Prácticas
+
+- **[Práctica 1](examples/Practica-1.md)** - Introducción a GitHub Copilot con Python
+  - Generación de código automática
+  - Refactorización asistida
+  - Creación de pruebas unitarias
+
+- **[Práctica 2](examples/Practica-2.md)** - Proyecto: Portafolio Web con IA
+  - Desarrollo HTML/CSS/JavaScript con Copilot
+  - Uso combinado de ChatGPT + Copilot
+  - Publicación en GitHub Pages
+
+### 📂 Estructura de carpetas
+
+- **`materials/`** - Guías de personalización y mejores prácticas
+- **`examples/`** - Código base y ejercicios del taller
+- **`solutions/`** - Soluciones completas de los ejercicios
+- **`resources/`** - Colección de prompts y recursos adicionales
+
+---
+
+## 🎯 Resultados del taller
+
+Al finalizar este taller habrás:
+
+- ✅ Configurado y usado GitHub Copilot en proyectos reales
+- ✅ Generado y refactorizado código Python con IA
+- ✅ Creado un portafolio web profesional
+- ✅ Publicado tu proyecto en GitHub Pages
+- ✅ Aprendido prompts efectivos para desarrollo con IA
 
 ---
 
 ## 📬 Contacto
 
-[Jonathan Castillo](https://linkedin.com/in/jona866) | Microsoft MVP | AI Consultant
+**Jonathan Castillo**  
+Microsoft MVP (Azure AI Foundry & Python) | AI Consultant  
+💼 [LinkedIn](https://linkedin.com/in/jona866)
+
